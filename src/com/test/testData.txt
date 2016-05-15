@@ -1,0 +1,10 @@
+place 3,4,N
+move
+report
+right
+report
+move
+report
+left
+move
+report
